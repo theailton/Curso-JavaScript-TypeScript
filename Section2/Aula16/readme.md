@@ -1,0 +1,1 @@
+Aula inicial de como funciona os Arrays no JavaScript
